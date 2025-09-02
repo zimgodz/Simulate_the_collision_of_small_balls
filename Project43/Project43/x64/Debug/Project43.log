@@ -1,0 +1,6 @@
+﻿  GLOBULE.hpp
+  PelletFormation.cpp
+  mian.cpp
+C:\Users\19046\Desktop\Project43\Project43\mian.cpp(7,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  Project43.vcxproj -> C:\Users\19046\Desktop\Project43\x64\Debug\Project43.exe
